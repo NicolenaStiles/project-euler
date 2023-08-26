@@ -1,5 +1,5 @@
-import 'package:euler/euler.dart' as euler;
+import 'package:euler/solutions.dart' as sol;
 
 void main(List<String> arguments) {
-  print('Hello world: ${euler.calculate()}!');
+    print('Solution for question 1: ${sol.question1()}');
 }
